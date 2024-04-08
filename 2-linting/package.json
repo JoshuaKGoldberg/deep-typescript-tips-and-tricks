@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "@types/react": "^18.2.74"
+  },
+  "type": "module",
+  "dependencies": {
+    "eslint": "^8.57.0",
+    "typescript": "^5.4.4",
+    "typescript-eslint": "^7.5.0"
+  }
+}
