@@ -4,6 +4,6 @@ const animals = {
   cat: "abc",
 };
 
-function get<Container>(container: Container, key: keyof Container) {
+function pick<Container>(container: Container, key: keyof Container) {
   return container[key];
 }
